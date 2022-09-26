@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599909387 source:e:\programs\codeblocks programs\c programs\romantodecimal\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

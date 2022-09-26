@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659516242 source:e:\programs\codeblocks programs\c programs\graphs\breadthfirstsearch\main.c
+	<stdio.h>
+	<stdlib.h>
+

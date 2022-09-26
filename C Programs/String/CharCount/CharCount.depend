@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599909281 source:e:\programs\codeblocks programs\c programs\string\charcount\main.c
+	<stdio.h>
+	<string.h>
+

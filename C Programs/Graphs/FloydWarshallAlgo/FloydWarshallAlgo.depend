@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659611965 source:e:\programs\codeblocks programs\c programs\graphs\floydwarshallalgo\main.c
+	<stdio.h>
+	<stdlib.h>
+

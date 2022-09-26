@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663223381 source:e:\programs\codeblocks programs\c programs\heaps\binaryheap\main.c
+	<stdio.h>
+	<stdlib.h>
+
